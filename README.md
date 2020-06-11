@@ -1,2 +1,2 @@
 # my108
-MY Sample repo
+MY sample repo
